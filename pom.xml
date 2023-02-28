@@ -51,6 +51,15 @@
             <scope>test</scope>
         </dependency>
 
+        <dependency>
+            <groupId>me.jvt.cucumber</groupId>
+            <artifactId>reporting-plugin</artifactId>
+            <version>5.0.0</version>
+        </dependency>
+
+
+
+
     </dependencies>
 
 </project>
